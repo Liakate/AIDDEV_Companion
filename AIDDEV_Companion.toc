@@ -1,0 +1,7 @@
+## Interface: 99999
+## Title: AIDDEV Companion
+## Notes: External project provider for AIDDEV
+## Author: Bob
+## Version: 1.0.0
+
+Core\Companion.lua
